@@ -1,0 +1,10 @@
+solution:
+  created-by: uv2csolution@1.2.0
+  created-for: CMSIS-Toolbox@2.0.0
+  compiler: AC6
+  target-types:
+    - type: Target_1
+      device: MSP432E401Y
+      optimize: none
+  projects:
+    - project: 2DX_2022_Studio_9_E2.cproject.yml
